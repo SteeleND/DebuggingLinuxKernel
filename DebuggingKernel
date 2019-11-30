@@ -58,3 +58,7 @@ This will let the virtual machine boot up, running line by line, until it encoun
 From here, you can now step through the code using S or Step, or just use Continue, to let the code run normally.
 
 You're now debugging the Linux Kernel using QEMU, GDB and Buildroot
+
+
+For video of me running it, and how it should end up;
+https://youtu.be/_AZlDxaXgYY
